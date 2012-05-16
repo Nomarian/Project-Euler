@@ -1,0 +1,36 @@
+
+
+Problem 245
+
+15 May 2009
+
+
+We shall call a fraction that cannot be cancelled down a resilient fraction.
+Furthermore we shall define the resilience of a denominator, R(d), to be the
+ratio of its proper fractions that are resilient; for example, R(12) = ^4⁄[11].
+
+The resilience of a number d > 1 is  φ(d)   , where φ is Euler's totient
+then                                 [blac] function.
+                                     d - 1
+
+                                                                n - φ(n)
+We further define the coresilience of a number n > 1 as C(n) =  [blackdo] .
+                                                                n - 1
+
+                                         1
+The coresilience of a prime p is C(p) =  [blac] .
+                                         p - 1
+
+Find the sum of all composite integers 1 < n ≤ 2x10^11, for which C(n) is a
+unit fraction.
+
+Note: the upper limit has been changed recently. Check out that you use the
+right upper limit.
+
+
+
+
+                                                                               
+                                                                               
+                                                                               
+                                                           

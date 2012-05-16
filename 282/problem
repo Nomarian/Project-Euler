@@ -1,0 +1,23 @@
+
+
+Problem 282
+
+12 March 2010
+
+
+For non-negative integers m, n, the Ackermann function A(m, n) is defined as
+follows:
+
+                                 [p_282_form]
+
+For example A(1, 0) = 2, A(2, 2) = 7 and A(3, 4) = 125.
+
+Find [p_282formu]A(n, n) and give your answer mod 14^8.
+
+
+
+
+                                                                               
+                                                                               
+                                                                               
+                                                           

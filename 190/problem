@@ -1,0 +1,23 @@
+
+
+Problem 190
+
+18 April 2008
+
+
+Let S[m] = (x[1], x[2], ... , x[m]) be the m-tuple of positive real numbers
+with x[1] + x[2] + ... + x[m] = m for which P[m] = x[1] * x[2]^2 * ... * x[m]^m
+is maximised.
+
+For example, it can be verified that [P[10]] = 4112 ([ ] is the integer part
+function).
+
+Find Σ[P[m]] for 2 ≤ m ≤ 15.
+
+
+
+
+                                                                               
+                                                                               
+                                                                               
+                                                           

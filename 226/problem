@@ -1,0 +1,29 @@
+
+
+Problem 226
+
+02 January 2009
+
+
+The blancmange curve is the set of points (x,y) such that 0 ≤ x ≤ 1 and
+[p_226_form] ,
+where s(x) = the distance from x to the nearest integer.
+
+The area under the blancmange curve is equal to 1/2, shown in pink in the
+diagram below.
+
+blancmange curve
+
+Let C be the circle with centre (1/4,&frac12) and radius 1/4, shown in black in
+the diagram.
+
+What area under the blancmange curve is enclosed by C?
+Give your answer rounded to eight decimal places in the form 0.abcdefgh
+
+
+
+
+                                                                               
+                                                                               
+                                                                               
+                                                           

@@ -1,0 +1,21 @@
+
+
+Problem 356
+
+29 October 2011
+
+
+Let a[n] be the largest real root of a polynomial g(x) = x^3 - 2^n.x^2 + n.
+For example, a[2] = 3.86619826...
+
+Find the last eight digits of[p_356_cubi].
+
+Note: [p_356_cubi] represents the floor function.
+
+
+
+
+                                                                               
+                                                                               
+                                                                               
+                                                           

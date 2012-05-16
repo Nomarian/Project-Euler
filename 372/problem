@@ -1,0 +1,21 @@
+
+
+Problem 372
+
+18 February 2012
+
+
+Let R(M, N) be the number of lattice points (x, y) which satisfy M<x≤N, M<y≤N
+and [p_372_penc] is odd.
+We can verify that R(0, 100) = 3019 and R(100, 10000) = 29750422.
+Find R(2.10^6, 10^9).
+
+Note: [p_372_penc] represents the floor function.
+
+
+
+
+                                                                               
+                                                                               
+                                                                               
+                                                           
